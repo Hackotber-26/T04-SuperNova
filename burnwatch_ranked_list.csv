@@ -1,0 +1,5 @@
+rank,cell_id,lat,lon,unmatched_ha,matched_ha,fire_count,status
+1,G2,30.24,75.85,38.8,not provided,not provided,not provided
+2,G1,30.19,75.8,28.36,not provided,not provided,not provided
+3,G3,30.29,75.9,14.64,not provided,not provided,not provided
+4,G4,30.32,75.95,0,not provided,not provided,not provided
