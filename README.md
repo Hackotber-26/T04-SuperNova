@@ -109,6 +109,9 @@ Generates structured output datasets for further analysis and web-based visualiz
 - `ranked_villages.csv`
 - `burnwatch_results.mat`
 
+<img width="1334" height="633" alt="image" src="https://github.com/user-attachments/assets/90ead2aa-20d2-43a3-a696-cc426bbc1725" />
+
+
 ## 8. Future Scope
 
 - **Open-Source Algorithm Development:** Transition the core clustering algorithm into Python using NumPy/SciPy or native C++ execution kernels for scalable, cloud-native processing.
